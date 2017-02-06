@@ -1,0 +1,49 @@
+﻿body {
+    width: 90%;
+    margin: auto; 
+    margin-top: 10px;
+    border-color: white;
+}
+
+#form1 {
+    width: 90%;
+    margin: auto;
+    background-color: white;
+}
+
+#otherLinks {
+    width: 90%;
+    margin: 0.5em;
+    padding: 0.5em;
+    border: solid;
+    border-color: black;
+    background-color: lightyellow;
+}
+
+#banner {
+    width: 100%;
+    
+    
+}
+
+#Welcomelbl{
+    text-align: right;
+}
+
+#navBar{
+    background-color: aliceblue;
+}
+
+#content{
+    width: 90%;
+    margin: auto;
+}
+
+#log {
+    margin-left: 1em;
+}
+
+#spanmaster{
+    margin: 0.5em;
+}
+
